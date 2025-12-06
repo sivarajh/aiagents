@@ -58,3 +58,10 @@ are confident in every deployment. While automated evaluations are critical, don
 other important factors like latency, cost, and task success rates. For maximum safety, use
 A/B deployments to slowly roll out new versions and compare these real-world production
 metrics alongside your simulation scores.
+
+https://opentelemetry.io/blog/2025/ai-agent-observability/
+
+export this
+https://dojo.ag-ui.com/langgraph/feature/backend_tool_rendering?openCopilot=true&file=page.tsx
+
+
